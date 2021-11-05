@@ -1,4 +1,4 @@
-# CSCI-Java2-TRexProject
+# T-Rex Project Final
 By: Camille Joyce Mercado
 \
 This java file will produce an animation of a dinosaur/trex running that pays a homage to the Google TRex Run Offline Game.
