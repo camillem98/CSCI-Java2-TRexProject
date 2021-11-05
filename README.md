@@ -12,3 +12,6 @@ The graphics objects that were used are GRect and GOval.
 ## How To Run
 1. Have an Eclipse IDE Downloaded (Eclipse IDE for Java Developers, Java and Web Developers).
 2. "TRexRun.java" is the main class and must run first.
+\
+\
+![alt text](https://is5-ssl.mzstatic.com/image/thumb/Purple20/v4/ba/17/a1/ba17a1a7-9559-81dd-9f04-65ec45f48455/source/256x256bb.jpg)
