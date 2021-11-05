@@ -10,5 +10,5 @@ The colors used in this project were cyan and custom colors of tan, light green,
 The graphics objects that were used are GRect and GOval.
 
 ## How To Run
-1. Have Eclipse IDE Downloaded
-2. TRexRun.java is the main class and must run first
+1. Have an Eclipse IDE Downloaded (Eclipse IDE for Java Developers, Java and Web Developers).
+2. "TRexRun.java" is the main class and must run first.
